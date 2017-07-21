@@ -1,0 +1,107 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 Ιουν 2017, 12:10:55 πμ
+    Author     : owner
+*/
+
+.container {
+    margin-left: 10px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#doette {
+    margin-left: 490px;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+#ninja {
+    margin-left: 530px;
+    margin-top: -20px;
+    white-space: nowrap;
+    font-size: 10px;
+}
+
+hr {
+    margin-left: 100px;
+    margin-right: 680px;
+}
+
+#logo {
+    margin-left: 50px;
+    margin-top: -80px;
+}
+#centerImg {
+    margin-left: 100px;
+}
+
+#featured_work_section {
+    margin-left: 100px;
+}
+
+#feature_workh2 {
+    color: #7d97ad;
+}
+
+#appify {
+    margin-left: 45px;
+    margin-top: -5px;
+}
+
+#sunflower {
+    margin-left: 15px;
+    margin-top: -5px;
+}
+
+#bokeh {
+    margin-left: 40px;
+    margin-top: -5px;
+}
+
+#appify_p {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+#sunflower_p {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+#bokeh_p {
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+#articlesDiv {
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#firstDiv {
+    margin-right: 20px;
+}
+
+#secondDiv {
+    margin-right: 20px;    
+}
+
+#thirdDiv{
+    margin-right: 20px;
+}
+
+h2 {
+   font-size: 100%; 
+}
